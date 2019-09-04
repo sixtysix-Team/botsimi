@@ -1,5 +1,9 @@
 # botsimi
 
+## untuk sementara tidak bisa digunakan ##
+
+### massage forbidden ###
+
 Bot simi adalah alat chat dengan robot
 
 Dengan mangambil data dari https://wsapi.simsimi.com
